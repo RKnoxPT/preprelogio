@@ -1,7 +1,7 @@
 # Site
 name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+title: "Amigos do Pulso"
+description: "O Local Perfeito para encontrar o seu Novo Relógio!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:  / #/ para GHPages
