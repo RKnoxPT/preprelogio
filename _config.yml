@@ -12,6 +12,8 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 locale: pt_PT
+google_site_verification: 
+
 
 # Authors
 authors:
